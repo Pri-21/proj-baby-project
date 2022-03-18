@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788952367646",
+    "project_id": "baby-project-3b6ca",
+    "storage_bucket": "baby-project-3b6ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788952367646:android:a17d98d6395f3ac924640f",
+        "android_client_info": {
+          "package_name": "com.babyproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788952367646-9be2ip88qv6qafbr8gfp2fk2tnte68nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_T27gMYP7uWRF6akbAEXoqIcW9vWrsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788952367646-9be2ip88qv6qafbr8gfp2fk2tnte68nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
